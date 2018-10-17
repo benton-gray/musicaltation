@@ -1,0 +1,2 @@
+# musicaltation
+Generate music compositions
